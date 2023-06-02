@@ -1,7 +1,7 @@
 """Removing outliers and filling missing values in based on KNN(Nearest neighbours):
 pip install scipy,  Scikit-learn, sklearn, run it after outliers are removed"""
 
-import re
+
 import pandas as pd
 import urllib.parse
 import numpy as np
