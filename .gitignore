@@ -163,3 +163,10 @@ cython_debug/
 #.idea/
 .DS_Store
 Untitled-1.py
+nata_cleaning_main.ipynb
+nata_reg.ipynb
+raw_clean_data.csv
+test_prediction.ipynb
+clean_raw_data.csv
+complete_all.csv
+imputation_test.ipynb
