@@ -170,3 +170,8 @@ test_prediction.ipynb
 clean_raw_data.csv
 complete_all.csv
 imputation_test.ipynb
+nata_reg_draft.ipynb
+clean_raw_data copy.csv
+n_test_clean.ipynb
+nata_mel.ipynb
+regression_model.joblib
