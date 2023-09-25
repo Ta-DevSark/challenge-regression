@@ -4,30 +4,6 @@
 
 This repository, **challenge-regression**, is a consolidation project that was completed by a team of 4 individuals. The challenge involved applying linear regression in a real-world context and preparing a dataset for machine learning. The objective was to predict real estate prices for sales in Belgium. The project had a duration of 4 days, with a code submission deadline on 02/05/2023 at 16:00.
 
-## Installation
-
-To run the code and reproduce the results of this project, follow these installation steps:
-
-1. Clone this repository to your local machine:
-
-   ```bash
-   git clone https://github.com/yourusername/challenge-regression.git
-   ```
-
-2. Navigate to the project directory:
-
-   ```bash
-   cd challenge-regression
-   ```
-
-3. Install the required Python packages:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. You are now ready to run the code and follow the usage instructions below.
-
 ## Usage
 
 All the necessary steps have been successfully completed to create a machine learning model for real estate price prediction. Here's a summary of the accomplished tasks:
