@@ -44,7 +44,7 @@ All the necessary steps have been successfully completed to create a machine lea
 * [Mourad Amjahed](https://github.com/Mourad-Amj)
 * [Melike Kaya](https://github.com/melikkekaya)
 * [Natalia Evgrafova](https://github.com/natalievgrafova)
-* [Sarkis Tadevosian](https://github.com/Ta-DevSark))
+* [Sarkis Tadevosian](https://github.com/Ta-DevSark)
 
 ---
 
