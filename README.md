@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository, **challenge-regression**, is a consolidation project that was completed by a team of 4 individuals. The challenge involved applying linear regression in a real-world context and preparing a dataset for machine learning. The objective was to predict real estate prices for sales in Belgium. The project had a duration of 4 days, with a code submission deadline on 02/05/2023 at 16:00.
+This repository, **challenge-regression**, is a consolidation project that was completed by a team of 4 individuals. The challenge involved applying linear regression in a real-world context and preparing a dataset for machine learning. The objective was to predict real estate prices for sales in Belgium. The project had a duration of 4 days, with a deadline on 02/05/2023.
 
 ## Usage
 
